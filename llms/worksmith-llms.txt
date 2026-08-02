@@ -1,0 +1,25 @@
+# Worksmith
+
+> Worksmith is a retail operations platform (founded 2015, backed by Battery Ventures) that unites workplace and workforce management for multi-location retailers. Worksmith Workplace covers facilities management, vendor sourcing, maintenance, and work-order tracking through a curated nationwide network of vetted service providers; Worksmith Workforce (Progress Retail) covers scheduling, task management, training, and store audits. Worksmith is SOC 2 Type II compliant. Its platform API (api.worksmith.com, GraphQL) is private, with a "Worksmith API" component monitored on the public status page; there is no public developer program.
+
+## Company
+
+- [Website](https://www.worksmith.com): Worksmith marketing site
+- [About](https://www.worksmith.com/about): Company overview and mission
+- [Contact / Support](https://www.worksmith.com/contact-us): Contact Worksmith
+
+## Products
+
+- [Worksmith Workplace](https://workplace.worksmith.com/): Facilities and store experience management
+- [Worksmith Workforce](https://workforce.worksmith.com): Employee scheduling, tasks, training, and audits
+- [Client Portal login](https://clients.worksmith.com): Workplace client login
+- [Vendor Portal login](https://vendors.worksmith.com): Service provider login
+- [Workforce login](https://app.progressretail.com/): Progress Retail (Workforce) login
+
+## Operations & Trust
+
+- [Status Page](https://status.worksmith.com/): 17 monitored components including the Worksmith API
+- [Trust Center](https://security.worksmith.com/): Vanta-hosted trust center (SOC 2 Type II)
+- [Service Level Objectives](https://www.worksmith.com/service-level-objectives): Operational SLOs for facilities services
+- [Terms of Service](https://www.worksmith.com/terms-of-services)
+- [Privacy Policy](https://www.worksmith.com/privacy-policy)

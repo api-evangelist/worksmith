@@ -1,0 +1,20 @@
+generated: '2026-07-21'
+method: searched
+probe: true
+url: https://security.worksmith.com/
+platform: Vanta Trust Center
+certifications:
+- SOC 2 Type II
+evidence:
+- source: https://security.worksmith.com/
+  kind: trust-center
+  detail: HTTP 200; DNS CNAME 63aca73c3be401fb602972c9.cname.vantatrust.com;
+    served from assets.vanta.com index-trust-report (Vanta-hosted trust center,
+    JS-rendered so certification list is not machine-extractable)
+- source: https://www.worksmith.com/about
+  kind: compliance-claim
+  detail: About page states the company is SOC 2 Type II compliant
+notes: Worksmith publishes a Vanta-hosted trust center at security.worksmith.com.
+  The page title is "Worksmith Trust Center" (slugid p8xo9pr62y13iz7prxfxvg). The
+  content is rendered client-side behind Vanta signed requests, so only the SOC 2
+  Type II claim published on the marketing site is recorded as a named certification.

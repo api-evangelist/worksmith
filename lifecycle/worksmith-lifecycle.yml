@@ -1,0 +1,39 @@
+generated: '2026-07-21'
+method: searched
+source: https://status.worksmith.com/
+status_page: https://status.worksmith.com/
+status_page_components:
+- Worksmith API
+- Workforce
+- Workplace
+- Task Management
+- Store Audit
+- Connect (Channels & Messaging)
+- Learning Room
+- Course Designer
+- Learning Analytics
+- General Library
+- AI Sidekick & Search
+- User, Role, Location Administration
+- Client Portal
+- Vendor Portal
+- Mobile App
+- Workbench Portal
+sla:
+  url: https://www.worksmith.com/service-level-objectives
+  scope: Facilities & Experience Management Services (operational SLOs, not API
+    uptime targets)
+  initial_response: within 1 hour of a service request
+  emergency_response: within 24 hours
+  maintenance_completion: within 3 days of scheduled date
+  service_level_failure_threshold: objectives must be met for at least 70% of
+    monthly requests
+  remedies: service credit up to monthly fees; termination right after 3
+    consecutive months of failures
+versioning: null
+deprecation: null
+notes: Public Statuspage (status.worksmith.com) monitors 17 components including
+  an explicit "Worksmith API" component (operational, 100% uptime over the
+  90-day window as of 2026-07-21). No public API versioning or deprecation
+  policy is published; the API at api.worksmith.com has no public developer
+  program.
