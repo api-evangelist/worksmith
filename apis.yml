@@ -8,6 +8,17 @@ description: Worksmith is a retail operations platform founded in 2015 that unit
   audits. The company is SOC 2 Type II compliant, publishes a public status page that
   lists a Worksmith API component, and runs a private GraphQL API at api.worksmith.com
   with no public developer program. Backed by Battery Ventures.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
